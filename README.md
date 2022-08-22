@@ -6,7 +6,7 @@
 
 https://Abby-Choi.github.io/AP--CSP/
 
-# My Blog
+# Abby Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
